@@ -1,5 +1,7 @@
 # iamfast
 
+![Screenshot](https://raw.githubusercontent.com/iann0036/iamfast/readme/assets/cli.png)
+
 ## About
 
 This is an issues-only repo for **iamfast**, a toolset which generates AWS IAM policies from application code.

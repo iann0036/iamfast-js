@@ -1,6 +1,6 @@
 # iamfast
 
-![Screenshot](https://raw.githubusercontent.com/iann0036/iamfast/readme/assets/cli.png)
+<img src="https://raw.githubusercontent.com/iann0036/iamfast/readme/assets/cli.png" width="450" alt="CLI Screenshot">
 
 ## About
 

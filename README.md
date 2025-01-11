@@ -22,12 +22,15 @@ Execute `iamfast` with the first argument being the file or directory to be scan
 iamfast yourfile.js
 ```
 
-iamfast will support the following programming languages:
+iamfast supports the following programming languages:
 
 * JavaScript (v2/v3 SDK)
 * Python 3 (Boto3 SDK)
 * Go (v1/v2 SDK)
 * Java (v2 SDK)
+
+The following programming languages are planned:
+
 * PHP (v3 SDK)
 * C/C++ (v1 SDK)
 * Rust (v1 SDK)

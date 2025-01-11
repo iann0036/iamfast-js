@@ -39,7 +39,13 @@ The following programming languages are planned:
 
 #### Optional Flags
 
-`--format <type>`: Sets the format of the output, currently supporting `json` (default), `yaml`, `hcl` and `sam`
+**--format:** Sets the format of the output, currently supporting `json` (default), `yaml`, `hcl` and `sam`
+
+**--inclusions:** Specify the mode for external code inclusions, currently supporting `file` (default), `project`, `organization`, `external` and `all`
+
+**--context:** Specify the mode for contextual information, used for account ID, region etc., currently supporting `none` (default) and `local`
+
+**--profile:** The profile to use for contextual information
 
 ## Example
 

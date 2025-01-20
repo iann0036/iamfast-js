@@ -12,7 +12,7 @@ This is an issues-only repo for **iamfast**, a toolset which generates AWS IAM p
 npm i -g iamfast
 ```
 
-You can also install iamfast as a [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=iann0036.iamfast).
+You can also install iamfast as a [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=iamfast.iamfast-vscode).
 
 ## Usage
 
